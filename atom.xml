@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>热浪编程</title>
+  
+  <subtitle>程序员小涛的博客</subtitle>
+  <link href="https://tonyxuedev.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://tonyxuedev.github.io/"/>
+  <updated>2024-04-08T02:05:02.000Z</updated>
+  <id>https://tonyxuedev.github.io/</id>
+  
+  <author>
+    <name>Alex</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Consul，一个服务发现神器</title>
+    <link href="https://tonyxuedev.github.io/posts/74705a17.html"/>
+    <id>https://tonyxuedev.github.io/posts/74705a17.html</id>
+    <published>2024-03-18T16:08:05.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在使用微服务的架构中，Consul 是一个不可或缺的工具。它由 HashiCorp 公司开发，Consul 提供了服务发现、健康检查、配置管理和服务网格功能，使得在复杂的分布式系统中管理和配置服务变得简单高效。&lt;/p&gt;
+&lt;h2 id=&quot;服务发现：解决微服务寻址难题&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="分布式系统" scheme="https://tonyxuedev.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="分布式系统" scheme="https://tonyxuedev.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="Consul" scheme="https://tonyxuedev.github.io/tags/Consul/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一文弄懂 Swoole 进程、线程、协程到底是什么？</title>
+    <link href="https://tonyxuedev.github.io/posts/289a4dbc.html"/>
+    <id>https://tonyxuedev.github.io/posts/289a4dbc.html</id>
+    <published>2024-03-17T06:10:22.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;swoole-和-workerman-的区别&quot;&gt;&lt;a href=&quot;#swoole-和-workerman-的区别&quot; class=&quot;headerlink&quot; title=&quot;swoole 和 workerman 的区别&quot;&gt;&lt;/a&gt;swoole 和 workerman</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://tonyxuedev.github.io/categories/PHP/"/>
+    
+    
+    <category term="Swoole" scheme="https://tonyxuedev.github.io/tags/Swoole/"/>
+    
+    <category term="PHP" scheme="https://tonyxuedev.github.io/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Swoole 的底层架构及运行原理</title>
+    <link href="https://tonyxuedev.github.io/posts/84212e0c.html"/>
+    <id>https://tonyxuedev.github.io/posts/84212e0c.html</id>
+    <published>2024-03-17T05:43:05.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;先看这张底层架构图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/loading.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://tonyxuedev.github.io/categories/PHP/"/>
+    
+    
+    <category term="Swoole" scheme="https://tonyxuedev.github.io/tags/Swoole/"/>
+    
+    <category term="PHP" scheme="https://tonyxuedev.github.io/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>swoole环境搭建</title>
+    <link href="https://tonyxuedev.github.io/posts/59727fb0.html"/>
+    <id>https://tonyxuedev.github.io/posts/59727fb0.html</id>
+    <published>2024-03-17T04:48:05.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;PHP Swoole 扩展的安装方式有很多，这完全取决于你的使用环境，本文大致介绍几种常见的安装方式，且以在 M1 芯片上的 Mac 环境作为示例。&lt;/p&gt;
+&lt;h2 id=&quot;第一种&quot;&gt;&lt;a href=&quot;#第一种&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://tonyxuedev.github.io/categories/PHP/"/>
+    
+    
+    <category term="Swoole" scheme="https://tonyxuedev.github.io/tags/Swoole/"/>
+    
+    <category term="PHP" scheme="https://tonyxuedev.github.io/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何编写Dockerfile</title>
+    <link href="https://tonyxuedev.github.io/posts/1a6d22ba.html"/>
+    <id>https://tonyxuedev.github.io/posts/1a6d22ba.html</id>
+    <published>2024-02-26T15:45:27.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;编写-dockerfile&quot;&gt;&lt;a href=&quot;#编写-dockerfile&quot; class=&quot;headerlink&quot; title=&quot;编写 dockerfile&quot;&gt;&lt;/a&gt;编写 dockerfile&lt;/h1&gt;&lt;p&gt;Dockerfile 文件是用于定义 Docker</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/categories/Docker/"/>
+    
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/tags/Docker/"/>
+    
+    <category term="Dockerfile" scheme="https://tonyxuedev.github.io/tags/Dockerfile/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker alpine linux 修改时区</title>
+    <link href="https://tonyxuedev.github.io/posts/e7d57128.html"/>
+    <id>https://tonyxuedev.github.io/posts/e7d57128.html</id>
+    <published>2024-02-26T15:30:05.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Docker alpine Linux 中修改时区&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.alpinelinux.org/wiki/Setting_the_timezone&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/categories/Docker/"/>
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/tags/Linux/"/>
+    
+    <category term="CentOS" scheme="https://tonyxuedev.github.io/tags/CentOS/"/>
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 容器内服务访问宿主机中的服务</title>
+    <link href="https://tonyxuedev.github.io/posts/f085ffcd.html"/>
+    <id>https://tonyxuedev.github.io/posts/f085ffcd.html</id>
+    <published>2024-02-26T15:06:19.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;docker-容器内服务访问宿主机中的服务&quot;&gt;&lt;a href=&quot;#docker-容器内服务访问宿主机中的服务&quot; class=&quot;headerlink&quot; title=&quot;docker 容器内服务访问宿主机中的服务&quot;&gt;&lt;/a&gt;docker</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/categories/Docker/"/>
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/tags/Linux/"/>
+    
+    <category term="CentOS" scheme="https://tonyxuedev.github.io/tags/CentOS/"/>
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 容器关联的几种方式</title>
+    <link href="https://tonyxuedev.github.io/posts/775a3bbf.html"/>
+    <id>https://tonyxuedev.github.io/posts/775a3bbf.html</id>
+    <published>2024-02-26T14:52:55.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-通过-link-容器关联&quot;&gt;&lt;a href=&quot;#1-通过-link-容器关联&quot; class=&quot;headerlink&quot; title=&quot;1. 通过 link 容器关联&quot;&gt;&lt;/a&gt;1. 通过 link 容器关联&lt;/h2&gt;&lt;p&gt;通过</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/categories/Docker/"/>
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/tags/Linux/"/>
+    
+    <category term="CentOS" scheme="https://tonyxuedev.github.io/tags/CentOS/"/>
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一起来了解下Docker-compose</title>
+    <link href="https://tonyxuedev.github.io/posts/2d05cf8b.html"/>
+    <id>https://tonyxuedev.github.io/posts/2d05cf8b.html</id>
+    <published>2024-02-26T14:43:52.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Docker Compose是一个用于定义和运行多容器Docker应用程序的工具。通过Compose，你可以使用 YAML 文件来配置应用程序的服务。然后，只需一个简单的命令，就可以创建并启动配置中的所有服务。这使得部署多容器应用变得简单快捷。&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/categories/Docker/"/>
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/tags/Linux/"/>
+    
+    <category term="CentOS" scheme="https://tonyxuedev.github.io/tags/CentOS/"/>
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ElasticSearch 聚合查询</title>
+    <link href="https://tonyxuedev.github.io/posts/25480f12.html"/>
+    <id>https://tonyxuedev.github.io/posts/25480f12.html</id>
+    <published>2024-02-02T09:04:39.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;聚合的基本语法结构&quot;&gt;&lt;a href=&quot;#聚合的基本语法结构&quot; class=&quot;headerlink&quot; title=&quot;聚合的基本语法结构&quot;&gt;&lt;/a&gt;聚合的基本语法结构&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-json&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="ElasticSearch" scheme="https://tonyxuedev.github.io/categories/ElasticSearch/"/>
+    
+    
+    <category term="ElasticSearch" scheme="https://tonyxuedev.github.io/tags/ElasticSearch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ElasticSearch 查询语法</title>
+    <link href="https://tonyxuedev.github.io/posts/65a50e61.html"/>
+    <id>https://tonyxuedev.github.io/posts/65a50e61.html</id>
+    <published>2024-02-02T08:55:14.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;查询的基本语法结构&quot;&gt;&lt;a href=&quot;#查询的基本语法结构&quot; class=&quot;headerlink&quot; title=&quot;查询的基本语法结构&quot;&gt;&lt;/a&gt;查询的基本语法结构&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-json&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="ElasticSearch" scheme="https://tonyxuedev.github.io/categories/ElasticSearch/"/>
+    
+    
+    <category term="ElasticSearch" scheme="https://tonyxuedev.github.io/tags/ElasticSearch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 pyenv 管理多个版本 Python</title>
+    <link href="https://tonyxuedev.github.io/posts/9fc3a49a.html"/>
+    <id>https://tonyxuedev.github.io/posts/9fc3a49a.html</id>
+    <published>2024-01-15T06:23:50.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/pyenv/pyenv&quot;&gt;pyenv&lt;/a&gt; 是 Python 的版本管理工具，利用它可以在同一台电脑上安装多个版本的 Python。&lt;/p&gt;
+&lt;h2 id=&quot;安装方式&quot;&gt;&lt;a href=&quot;#安装方式&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://tonyxuedev.github.io/categories/Python/"/>
+    
+    
+    <category term="Python3" scheme="https://tonyxuedev.github.io/tags/Python3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git bug 分支</title>
+    <link href="https://tonyxuedev.github.io/posts/56cac605.html"/>
+    <id>https://tonyxuedev.github.io/posts/56cac605.html</id>
+    <published>2024-01-15T06:15:19.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Git-bug-分支&quot;&gt;&lt;a href=&quot;#Git-bug-分支&quot; class=&quot;headerlink&quot; title=&quot;Git bug 分支&quot;&gt;&lt;/a&gt;Git bug 分支&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;修复 bug 时，我们会通过创建新的 bug</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://tonyxuedev.github.io/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://tonyxuedev.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建 GitLab Git 服务器</title>
+    <link href="https://tonyxuedev.github.io/posts/34b62620.html"/>
+    <id>https://tonyxuedev.github.io/posts/34b62620.html</id>
+    <published>2024-01-15T06:00:58.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://tonyxuedev.github.io/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://tonyxuedev.github.io/tags/Git/"/>
+    
+    <category term="Git 服务器" scheme="https://tonyxuedev.github.io/tags/Git-%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用 Docker 安装 Gitlab</title>
+    <link href="https://tonyxuedev.github.io/posts/bd835025.html"/>
+    <id>https://tonyxuedev.github.io/posts/bd835025.html</id>
+    <published>2024-01-15T03:51:08.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://hub.docker.com/r/gitlab/gitlab-ce&quot;&gt;Gitlab 官方 docker&lt;/a&gt;&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://tonyxuedev.github.io/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://tonyxuedev.github.io/tags/Git/"/>
+    
+    <category term="Docker" scheme="https://tonyxuedev.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何运用 systemd 管理 Linux 中的服务</title>
+    <link href="https://tonyxuedev.github.io/posts/ad8a576e.html"/>
+    <id>https://tonyxuedev.github.io/posts/ad8a576e.html</id>
+    <published>2024-01-15T02:05:49.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么是-systemd&quot;&gt;&lt;a href=&quot;#什么是-systemd&quot; class=&quot;headerlink&quot; title=&quot;什么是 systemd&quot;&gt;&lt;/a&gt;什么是 systemd&lt;/h2&gt;&lt;p&gt;&lt;code&gt;systemd&lt;/code&gt; 是 Linux</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一文讲懂 HTTP 协议知识</title>
+    <link href="https://tonyxuedev.github.io/posts/d8b21c9b.html"/>
+    <id>https://tonyxuedev.github.io/posts/d8b21c9b.html</id>
+    <published>2023-12-19T08:34:20.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HTTP协议&quot;&gt;&lt;a href=&quot;#HTTP协议&quot; class=&quot;headerlink&quot; title=&quot;HTTP协议&quot;&gt;&lt;/a&gt;HTTP协议&lt;/h1&gt;&lt;h2 id=&quot;HTTP是什么？&quot;&gt;&lt;a href=&quot;#HTTP是什么？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="科普" scheme="https://tonyxuedev.github.io/categories/%E7%A7%91%E6%99%AE/"/>
+    
+    
+    <category term="HTTP" scheme="https://tonyxuedev.github.io/tags/HTTP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 用户、用户组、权限</title>
+    <link href="https://tonyxuedev.github.io/posts/41bc9f3e.html"/>
+    <id>https://tonyxuedev.github.io/posts/41bc9f3e.html</id>
+    <published>2023-12-19T07:43:10.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux-用户、用户组、权限&quot;&gt;&lt;a href=&quot;#Linux-用户、用户组、权限&quot; class=&quot;headerlink&quot; title=&quot;Linux 用户、用户组、权限&quot;&gt;&lt;/a&gt;Linux 用户、用户组、权限&lt;/h1&gt;&lt;h2 id=&quot;用户&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解Vim保存命令“:w !sudo tee %”</title>
+    <link href="https://tonyxuedev.github.io/posts/c1413261.html"/>
+    <id>https://tonyxuedev.github.io/posts/c1413261.html</id>
+    <published>2023-12-19T06:57:15.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在 Linux 世界中，Vim 编辑器是一个广受欢迎的文本编辑器，它强大的功能和丰富的命令集合赋予了它无与伦比的生命力。今天我们要来探讨的是 Vim 中的一个&lt;strong&gt;很常用但可能初学者易于忽略&lt;/strong&gt;的命令——&lt;code&gt;:w !sudo tee</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://tonyxuedev.github.io/categories/Linux/"/>
+    
+    
+    <category term="Vim" scheme="https://tonyxuedev.github.io/tags/Vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown：解放排版，简洁高效的文字创作神器！</title>
+    <link href="https://tonyxuedev.github.io/posts/23b678b6.html"/>
+    <id>https://tonyxuedev.github.io/posts/23b678b6.html</id>
+    <published>2023-12-11T09:01:43.000Z</published>
+    <updated>2024-04-08T02:05:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Markdown 是一种轻量级的标记语言，它允许人们使用&lt;strong&gt;易读易写&lt;/strong&gt;的纯文本格式编写文档，借助可实现快速排版且转换成格式丰富的 HTML</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://tonyxuedev.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://tonyxuedev.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
